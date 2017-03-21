@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo
+echo -e "The home directory is: ${HOME}"
+echo

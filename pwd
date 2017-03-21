@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo -e "\nThe current working directory is: ${PWD}\n"
+

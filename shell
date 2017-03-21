@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo -e "\nThe current shell is:"
+echo $SHELL
+echo

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo -e "\nThe current path settings are:\n${PATH}\n"

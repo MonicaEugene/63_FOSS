@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo -e "\nThe log name is: ${LOGNAME}\n"
+echo -e "\nThe logged users are: "
+who
+echo
+
+
+
+
