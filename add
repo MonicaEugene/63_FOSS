@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo -e "\nInput 1st number:" 
+read a
+echo -e "\nInput 2nd number:"
+read b
+let c=a+b
+echo -e "The SUM is:" $c
+echo
+
